@@ -1,4 +1,4 @@
-# 📌 Personal-Project-Contagem-Regressiva-Para-o-Ano-Novo 📌
+# 📌 Personal-Project-Contagem-Regressiva-Para-o-Ano-Novo 
 
  ## 🔎 **Preview** 🔎
  
